@@ -1,0 +1,5 @@
+{
+    "project": "project-template",
+    "author": "Erik Anderson",
+    "_copy_without_render": ["*{{cookiecutter.project}}"]
+}
