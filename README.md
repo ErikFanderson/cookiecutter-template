@@ -1,2 +1,2 @@
-# pysilicon-template
-Cookiecutter template for easy pysilicon project generation.
+# cookiecutter-template
+Cookiecutter template for creating cookiecutter templates.
