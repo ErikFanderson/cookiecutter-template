@@ -1,4 +1,4 @@
 {{cookiecutter.project}}
 -----------------
-Author: {{cookiecutter.author}}
-Date Created: {% now 'local', '%d/%m/%Y' %}
+Author: {{cookiecutter.author}}  
+Date Created: {% now 'local', '%m/%d/%Y' %}
